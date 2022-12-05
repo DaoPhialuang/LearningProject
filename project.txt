@@ -1,0 +1,4 @@
+ASsumption:
+
+-data directory contains many files and directories
+- you are only interested in th games contaiend in this directroy 
